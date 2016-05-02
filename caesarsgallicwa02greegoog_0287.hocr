@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./caesarsgallicwa02greegoog_0287.png"; bbox 0 0 2819 4297; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 524 436 2210 3654">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 524 436 2210 3654">
+     <span class='ocr_line' id='line_1_1' title="bbox 524 436 2210 3654; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 524 436 2210 3654; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 779 3759 1973 3814">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 779 3759 1973 3814">
+     <span class='ocr_line' id='line_1_2' title="bbox 779 3759 1973 3814; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 779 3765 880 3804; x_wconf 62' lang='grc' dir='ltr'><strong>ΞΟ.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 908 3777 1033 3814; x_wconf 47' lang='lat' dir='ltr'><strong>nv!</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1050 3765 1264 3805; x_wconf 58' lang='lat' dir='ltr'><strong>&gt;zo-aza.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1293 3764 1484 3804; x_wconf 56' lang='lat' dir='ltr'><strong>mfiaeadw</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1512 3773 1570 3801; x_wconf 73' lang='grc' dir='ltr'><strong>Ξ..</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1597 3759 1781 3804; x_wconf 53' lang='grc' dir='ltr'><strong>ΦΞΡΞ</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1809 3765 1973 3807; x_wconf 50' lang='grc' dir='ltr'><strong>ΟΞΞη.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1837 4101 2400 4213">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1837 4101 2400 4213">
+     <span class='ocr_line' id='line_1_3' title="bbox 1837 4101 2400 4213; textangle 90"><span class='ocrx_word' id='word_1_9' title='bbox 1837 4148 1998 4188; x_wconf 45' lang='lat' dir='ltr'><strong>{amma</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2016 4101 2400 4213; x_wconf 48' lang='lat' dir='ltr'><strong>{OEOQffl—mw</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

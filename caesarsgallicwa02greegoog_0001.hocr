@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./caesarsgallicwa02greegoog_0001.png"; bbox 0 0 2819 4297; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 122 3540 2058 3719">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 122 3540 2058 3719">
+     <span class='ocr_line' id='line_1_1' title="bbox 122 3540 2058 3719; baseline -0.002 0"><span class='ocrx_word' id='word_1_1' title='bbox 122 3542 954 3719; x_wconf 72' lang='lat' dir='ltr'>Caesar&#39;s</span> <span class='ocrx_word' id='word_1_2' title='bbox 1028 3540 1608 3719; x_wconf 73' lang='lat' dir='ltr'><em>Gallie</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1676 3600 2058 3719; x_wconf 73' lang='lat' dir='ltr'>war</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 108 3826 1824 3967">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 108 3826 1824 3967">
+     <span class='ocr_line' id='line_1_2' title="bbox 108 3826 1824 3883; baseline 0 -10"><span class='ocrx_word' id='word_1_4' title='bbox 108 3826 279 3873; x_wconf 59' lang='lat' dir='ltr'>dulms</span> <span class='ocrx_word' id='word_1_5' title='bbox 310 3826 541 3879; x_wconf 63' lang='lat' dir='ltr'>Caaesas,</span> <span class='ocrx_word' id='word_1_6' title='bbox 572 3826 769 3873; x_wconf 60' lang='lat' dir='ltr'>damaes</span> <span class='ocrx_word' id='word_1_7' title='bbox 802 3826 1119 3874; x_wconf 63' lang='lat' dir='ltr'>Bradstsaeet</span> <span class='ocrx_word' id='word_1_8' title='bbox 1148 3826 1510 3883; x_wconf 62' lang='lat' dir='ltr'>Gsaenoucgm,</span> <span class='ocrx_word' id='word_1_9' title='bbox 1545 3826 1824 3883; x_wconf 60' lang='lat' dir='ltr'>&amp;enjamm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 108 3905 1303 3967; baseline 0 -10"><span class='ocrx_word' id='word_1_10' title='bbox 108 3910 353 3958; x_wconf 63' lang='lat' dir='ltr'>Leonas&amp;</span> <span class='ocrx_word' id='word_1_11' title='bbox 388 3905 641 3967; x_wconf 66' lang='lat' dir='ltr'><strong>D&#39;OOQe,</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 676 3910 873 3957; x_wconf 70' lang='lat' dir='ltr'>Moses</span> <span class='ocrx_word' id='word_1_13' title='bbox 904 3910 1071 3958; x_wconf 61' lang='lat' dir='ltr'>(Erant</span> <span class='ocrx_word' id='word_1_14' title='bbox 1102 3910 1303 3957; x_wconf 67' lang='lat' dir='ltr'>Daniel!</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2819 4297">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2819 4297">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2819 4297; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 0 0 2819 4297; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
